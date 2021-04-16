@@ -1,0 +1,15 @@
+<?php
+
+	header("Access-Control-Allow-Origin: *");
+	header("Content-Type: application/json; charset=UTF-8");
+	
+	$title 		= $_GET['title'];
+	$desc 		= $_GET['desc'];
+	$pic 		= $_GET['pic'];
+	$director 	= $_GET['director'];
+	$date 		= $_GET['date'];
+	
+	include_once '../objects/film.php';
+	
+	insertNewFilm($title, $date, $desc, $pic, $director);
+?>
