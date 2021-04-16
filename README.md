@@ -10,4 +10,4 @@
  Please bear in mind this project is 18 months old, at time of writing, and is by no means perfect.
  As part of the course, the website developed weekly, and the links at the top of the index page lead to older versions, some of which do not work.
 
- https://mayar.abertay.ac.uk/~1505050/SOGB/View/index.php
+ https://mayar.abertay.ac.uk/~1505050/Week12/View/HorrorMovieDatabase.php
